@@ -1,0 +1,490 @@
+fileFormatVersion: 2
+guid: 8d99d2ebf186949478150e828e5817d5
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Missiles_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 462
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 463
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 465
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 466
+        width: 62
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_4
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 465
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_5
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 465
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_6
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 465
+        width: 62
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_7
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 416
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 417
+        width: 62
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 415
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_10
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 415
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_11
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 414
+        width: 62
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 412
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 364
+        width: 124
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 364
+        width: 124
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_15
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 365
+        width: 124
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_16
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 366
+        width: 124
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_17
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 322
+        width: 124
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_18
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 322
+        width: 124
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_19
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 323
+        width: 124
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_20
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 322
+        width: 124
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_21
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 274
+        width: 124
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_22
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 274
+        width: 124
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_23
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 274
+        width: 124
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_24
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 275
+        width: 124
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_25
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 231
+        width: 124
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_26
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 231
+        width: 124
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_27
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 231
+        width: 124
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_28
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 231
+        width: 124
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_29
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 188
+        width: 124
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_30
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 187
+        width: 124
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_31
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 187
+        width: 124
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_32
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 187
+        width: 124
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_33
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 144
+        width: 124
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_34
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 145
+        width: 124
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_35
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 143
+        width: 124
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_36
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 141
+        width: 124
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_37
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 93
+        width: 124
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_38
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 97
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_39
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2
+        width: 34
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_40
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 103
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_41
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 105
+        width: 32
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_42
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 17
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_43
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 13
+        width: 20
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_44
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 9
+        width: 22
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_45
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 5
+        width: 23
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_46
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 48
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_47
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 29
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Missiles_48
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

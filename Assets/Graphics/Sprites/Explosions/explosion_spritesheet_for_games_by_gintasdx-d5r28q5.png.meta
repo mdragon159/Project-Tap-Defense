@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 703ba05862b6e7c42b1850593c4e1eba
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Explosion1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 46
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Explosion2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 42
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Explosion3
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 31
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Explosion4
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 31
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Explosion5
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 31
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Explosion6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 21
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Explosion7
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 17
+        width: 89
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Explosion8
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 16
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Explosion9
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 16
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
